@@ -18,5 +18,8 @@
     "@types/pg": "^8.15.6",
     "prisma": "^7.0.0",
     "ts-node": "^10.9.2"
+  },
+  "prisma": {
+    "schema": "repository/prisma/schema.prisma"
   }
 }
